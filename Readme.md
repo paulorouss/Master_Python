@@ -5,6 +5,15 @@
 
 ![Class Diagram](http://www.plantuml.com/plantuml/proxy?src=https://raw.githubusercontent.com/Zingam/Markdown-Document-UML-Use-Test/master/UML/Instance.puml)
 
+@startuml
+map "Map **Contry => CapitalCity**" as CC {
+ UK => London
+ USA => Washington
+ Germany => Berlin
+}
+@enduml
+
+
 ```mermaid
 graph LR
 A[Square Rect] -- Link text --> B((Circle))
