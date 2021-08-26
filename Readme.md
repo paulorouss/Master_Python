@@ -2,8 +2,7 @@
 ### Este repositorio se actualizara a medida que realice el curso de Python, y
 ### Python con redes neuronales.
 ## Muchas gracias. 
-graph LR
-    id1(This is the text in the box)
+
 
 ```mermaid
 graph LR
