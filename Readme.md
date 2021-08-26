@@ -13,6 +13,14 @@ map "Map **Contry => CapitalCity**" as CC {
 }
 @enduml
 
+@startuml component
+actor client
+node app
+database db
+
+db -> app
+app -> client
+@enduml
 
 ```mermaid
 graph LR
